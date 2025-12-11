@@ -26,8 +26,8 @@ I'm Vishal — a Computer Engineering student exploring the basics of programmin
 - Anything beginner-friendly — I’m learning too  
 
 ### 📫 How to reach me
-- Email: *add your email here*  
-- LinkedIn: *add your LinkedIn link here*  
+- Email: vishalkumar07702540@gmail.com  
+- LinkedIn: www.linkedin.com/in/vishal-kumar-yadav-18510a287 
 
 ### ⚡ Fun fact
 I learn by building — I understand things faster when I turn ideas into small projects.
